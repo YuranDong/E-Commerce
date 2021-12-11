@@ -1,6 +1,3 @@
-# E-Commerce
-Integrated Machine Learning Approaches for E-Commerce Customer Behavior Prediction
-
 Team Leader:  董宇然 Yuran Dong    Rensselaer Polytechnic Institute              contact email:  dongy9@rpi.edu or 782143494@qq.com
               唐君懿 Tang Junyi    Macau University of Science and Technology    contact email:  1809853jb011038@student.must.edu.mo
               张植熙 Zhixi Zhang   University of California, Irvine              contact email:  Zhixiz7@uci.edu
